@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaid Mohiuddin</h1>
 # 💫 About Me:
-💬A passionate Computer Science student at TMU (formerly Ryerson).<br>🔭 I’m currently working on my portfolio!<br>🌱 I’m currently learning React <br>💬 Reach me at zmohiuddin@torontomu.ca<br>⚡ Fun fact: I can solve a Rubik's cube in 30 seconds.
+💬An aspiring software developer majoring in Computer Science at TMU (formerly Ryerson).<br>🔭 I’m currently working on an LLM-Powered Automated Code Reviewer!<br>🌱 I’m currently learning React <br>💬 Reach me at zmohiuddin@torontomu.ca<br>⚡ Fun fact: I can solve a Rubik's cube in 30 seconds.
 
 
 ## 🌐 Socials:
