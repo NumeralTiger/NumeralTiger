@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-tan-39.vercel.app/)
 [![Email](https://img.shields.io/badge/-zmohiuddin@torontomu.ca-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zmohiuddin@torontomu.ca)
 [![GitHub](https://img.shields.io/badge/-NumeralTiger-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NumeralTiger)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/zaid-mohiuddin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](linkedin.com/in/zaidmohiuddin6)
 
 </div>
 
@@ -25,9 +25,9 @@ name: Zaid Mohiuddin
 location: Toronto, Canada 🇨🇦
 education: B.Sc. Computer Science @ TMU (formerly Ryerson University)
 currently_building: Algorithm Visualizer with Simulations
-learning: C++ | Bash Scripting
+learning: C/C++ | Bash Scripting
 interests: [AI/ML, Cybersecurity, Full Stack Development, Game Dev]
-fun_fact: "I can solve a Rubik's cube 🧊"
+fun_fact: "I enjoy hiking! 🏞️"
 ```
 
 <br/>
@@ -79,28 +79,28 @@ fun_fact: "I can solve a Rubik's cube 🧊"
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
-* 🔍 **[AI-PR-Reviewer](https://github.com/NumeralTiger/AI-PR-Reviewer)** &nbsp;<sub>★ 3</sub>
+###  AI & Machine Learning
+*  **[AI-PR-Reviewer](https://github.com/NumeralTiger/AI-PR-Reviewer)** &nbsp;<sub>★ 3</sub>
   <br/>*LLM-Powered Automated Code Reviewer*
   <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-* 📊 **[Sentiment-analyzer](https://github.com/NumeralTiger/Sentiment-analyzer)** &nbsp;<sub>★ 1</sub>
+*  **[Sentiment-analyzer](https://github.com/NumeralTiger/Sentiment-analyzer)** &nbsp;<sub>★ 1</sub>
   <br/>*ML model achieving 89% accuracy*
   <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-* 📄 **[Extract_fields_ocr](https://github.com/NumeralTiger/Extract_fields_ocr)**
+*  **[Extract_fields_ocr](https://github.com/NumeralTiger/Extract_fields_ocr)**
   <br/>*Intelligent document field extraction*
   <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Full Stack & Web Apps
-* 💊 **[medi-minder](https://github.com/NumeralTiger/medi-minder)** &nbsp;<sub>★ 2</sub>
+###  Full Stack & Web Apps
+* **[medi-minder](https://github.com/NumeralTiger/medi-minder)** &nbsp;<sub>★ 2</sub>
   <br/>*AI Medication Tracker web application*
   <br/>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-* 🛒 **[sasta-grocery](https://github.com/NumeralTiger/sasta-grocery)**
+*  **[sasta-grocery](https://github.com/NumeralTiger/sasta-grocery)**
   <br/>*Grocery price comparison PWA*
   <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-* 🏆 **[react-ai-scheduler](https://github.com/NumeralTiger/react-ai-scheduler)** &nbsp;<sub>★ 1</sub>
+*  **[react-ai-scheduler](https://github.com/NumeralTiger/react-ai-scheduler)** &nbsp;<sub>★ 1</sub>
   <br/>*LockIn.ai — Hackville 2025 Winner ($1K)*
   <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -109,8 +109,8 @@ fun_fact: "I can solve a Rubik's cube 🧊"
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Cybersecurity
-* 🍯 **[Mobile API Honeypot](https://github.com/NumeralTiger/Mobile-API-Honeypot-Threat-Behavioral-Analysis)**
+###  Cybersecurity
+*  **[Mobile API Honeypot](https://github.com/NumeralTiger/Mobile-API-Honeypot-Threat-Behavioral-Analysis)**
   <br/>*Threat landscape & location privacy analysis*
   <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 * ⚡ **[lc-tines-soar](https://github.com/NumeralTiger/lc-tines-soar)**
@@ -120,14 +120,14 @@ fun_fact: "I can solve a Rubik's cube 🧊"
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Games & Simulations
-* 🚀 **[Celestial-Wars](https://github.com/NumeralTiger/Celestial-Wars)** &nbsp;<sub>★ 1</sub>
+###  Games & Simulations
+*  **[Celestial-Wars](https://github.com/NumeralTiger/Celestial-Wars)** &nbsp;<sub>★ 1</sub>
   <br/>*Arcade themed asteroid shooter game*
   <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white)
-* 🪐 **[3D Solar System](https://github.com/NumeralTiger/JAVAFX)** &nbsp;<sub>★ 1</sub>
+*  **[3D Solar System](https://github.com/NumeralTiger/JAVAFX)** &nbsp;<sub>★ 1</sub>
   <br/>*Interactive 3D space simulator*
   <br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-000000?style=flat-square&logo=java&logoColor=white)
-* 🧩 **[Elf-Maze-Game](https://github.com/NumeralTiger/Elf-Maze-Game)** &nbsp;<sub>★ 1</sub>
+*  **[Elf-Maze-Game](https://github.com/NumeralTiger/Elf-Maze-Game)** &nbsp;<sub>★ 1</sub>
   <br/>*DFS maze generator — AWS Challenge*
   <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
@@ -136,25 +136,25 @@ fun_fact: "I can solve a Rubik's cube 🧊"
 <tr>
 <td width="50%" valign="top">
 
-### 🧰 Tools & Utilities
-* 📰 **[my_chrome_extension](https://github.com/NumeralTiger/my_chrome_extension)** &nbsp;<sub>★ 1</sub>
+###  Tools & Utilities
+*  **[my_chrome_extension](https://github.com/NumeralTiger/my_chrome_extension)** &nbsp;<sub>★ 1</sub>
   <br/>*Summarizes articles into bite-sized sentences*
   <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-* 📈 **[immigration-insights](https://github.com/NumeralTiger/immigration-insights)** &nbsp;<sub>★ 1</sub>
+*  **[immigration-insights](https://github.com/NumeralTiger/immigration-insights)** &nbsp;<sub>★ 1</sub>
   <br/>*Census data visualization dashboard*
   <br/>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### ☕ Java Projects
-* 🃏 **[blackjack_in_java](https://github.com/NumeralTiger/blackjack_in_java)** &nbsp;<sub>★ 1</sub>
+###  Java Projects
+*  **[blackjack_in_java](https://github.com/NumeralTiger/blackjack_in_java)** &nbsp;<sub>★ 1</sub>
   <br/>*Terminal-based Blackjack game*
   <br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-* 🎨 **[JavaDrawingApp](https://github.com/NumeralTiger/JavaDrawingApp)**
+*  **[JavaDrawingApp](https://github.com/NumeralTiger/JavaDrawingApp)**
   <br/>*Java drawing application using Swing*
   <br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-* 🖼️ **[Image-manipulation](https://github.com/NumeralTiger/Image-manipulation)** &nbsp;<sub>★ 1</sub>
+*  **[Image-manipulation](https://github.com/NumeralTiger/Image-manipulation)** &nbsp;<sub>★ 1</sub>
   <br/>*Cool image operations with PIL*
   <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -167,21 +167,6 @@ fun_fact: "I can solve a Rubik's cube 🧊"
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> &nbsp;GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/NumeralTiger">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=NumeralTiger&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NumeralTiger&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NumeralTiger&theme=dark&hide_border=true" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NumeralTiger&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF&hide_border=true" />
@@ -212,5 +197,5 @@ fun_fact: "I can solve a Rubik's cube 🧊"
 </div>
 
 <div align="center">
-  <sub>⚡ Built with passion from Toronto, Canada 🇨🇦</sub>
+  <sub>⚡ Built with intention from Toronto, Canada 🇨🇦</sub>
 </div>
