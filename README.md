@@ -77,96 +77,86 @@ fun_fact: "I can solve a Rubik's cube 🧊"
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI & Machine Learning
-[![AI-PR-Reviewer](https://img.shields.io/badge/-🔍%20AI%20PR%20Reviewer-161B22?style=for-the-badge)](https://github.com/NumeralTiger/AI-PR-Reviewer)
-<br/>LLM-powered automated code reviewer
-<br/><sub>⭐ 3 · Python · GitHub Actions</sub>
-
-[![Sentiment-Analyzer](https://img.shields.io/badge/-📊%20Sentiment%20Analyzer-161B22?style=for-the-badge)](https://github.com/NumeralTiger/Sentiment-analyzer)
-<br/>ML model achieving 89% accuracy
-<br/><sub>⭐ 1 · Python · scikit-learn</sub>
-
-[![Extract Fields OCR](https://img.shields.io/badge/-📄%20OCR%20Field%20Extractor-161B22?style=for-the-badge)](https://github.com/NumeralTiger/Extract_fields_ocr)
-<br/>Intelligent document field extraction
-<br/><sub>Python · OCR</sub>
+* 🔍 **[AI-PR-Reviewer](https://github.com/NumeralTiger/AI-PR-Reviewer)** &nbsp;<sub>★ 3</sub>
+  <br/>*LLM-Powered Automated Code Reviewer*
+  <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+* 📊 **[Sentiment-analyzer](https://github.com/NumeralTiger/Sentiment-analyzer)** &nbsp;<sub>★ 1</sub>
+  <br/>*ML model achieving 89% accuracy*
+  <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+* 📄 **[Extract_fields_ocr](https://github.com/NumeralTiger/Extract_fields_ocr)**
+  <br/>*Intelligent document field extraction*
+  <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Full Stack & Web Apps
-[![Medi-Minder](https://img.shields.io/badge/-💊%20Medi--Minder-161B22?style=for-the-badge)](https://github.com/NumeralTiger/medi-minder)
-<br/>AI Medication Tracker web application
-<br/><sub>⭐ 2 · TypeScript · React · Next.js</sub>
-
-[![Sasta Grocery](https://img.shields.io/badge/-🛒%20Sasta%20Grocery-161B22?style=for-the-badge)](https://github.com/NumeralTiger/sasta-grocery)
-<br/>Grocery price comparison PWA
-<br/><sub>JavaScript · Mobile-first PWA</sub>
-
-[![LockIn.ai](https://img.shields.io/badge/-🏆%20LockIn.ai%20(Hackathon%20Winner)-161B22?style=for-the-badge)](https://github.com/NumeralTiger/react-ai-scheduler)
-<br/>AI Scheduler — won $1,000 at Hackville 2025
-<br/><sub>⭐ 1 · JavaScript · React</sub>
+* 💊 **[medi-minder](https://github.com/NumeralTiger/medi-minder)** &nbsp;<sub>★ 2</sub>
+  <br/>*AI Medication Tracker web application*
+  <br/>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+* 🛒 **[sasta-grocery](https://github.com/NumeralTiger/sasta-grocery)**
+  <br/>*Grocery price comparison PWA*
+  <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* 🏆 **[react-ai-scheduler](https://github.com/NumeralTiger/react-ai-scheduler)** &nbsp;<sub>★ 1</sub>
+  <br/>*LockIn.ai — Hackville 2025 Winner ($1K)*
+  <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ Cybersecurity
-[![Honeypot Analysis](https://img.shields.io/badge/-🍯%20API%20Honeypot%20Analysis-161B22?style=for-the-badge)](https://github.com/NumeralTiger/Mobile-API-Honeypot-Threat-Behavioral-Analysis)
-<br/>Mobile API threat behavioral analysis
-<br/><sub>Python · Security Research</sub>
-
-[![SOAR Pipeline](https://img.shields.io/badge/-⚡%20SOAR%20Pipeline-161B22?style=for-the-badge)](https://github.com/NumeralTiger/lc-tines-soar)
-<br/>Automated cyber incident response
-<br/><sub>Python · Tines · Automation</sub>
+* 🍯 **[Mobile API Honeypot](https://github.com/NumeralTiger/Mobile-API-Honeypot-Threat-Behavioral-Analysis)**
+  <br/>*Threat landscape & location privacy analysis*
+  <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* ⚡ **[lc-tines-soar](https://github.com/NumeralTiger/lc-tines-soar)**
+  <br/>*Automated cyber incident response pipeline*
+  <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎮 Games & Simulations
-[![Celestial Wars](https://img.shields.io/badge/-🚀%20Celestial%20Wars-161B22?style=for-the-badge)](https://github.com/NumeralTiger/Celestial-Wars)
-<br/>Arcade asteroid shooter game
-<br/><sub>⭐ 1 · JavaScript · p5.js</sub>
-
-[![Solar System](https://img.shields.io/badge/-🪐%203D%20Solar%20System-161B22?style=for-the-badge)](https://github.com/NumeralTiger/JAVAFX)
-<br/>Interactive 3D Solar System Simulator
-<br/><sub>⭐ 1 · Java · JavaFX</sub>
-
-[![Elf Maze](https://img.shields.io/badge/-🧩%20Elf%20Maze%20Game-161B22?style=for-the-badge)](https://github.com/NumeralTiger/Elf-Maze-Game)
-<br/>DFS maze generator — AWS Game Challenge
-<br/><sub>⭐ 1 · JavaScript · HTML · CSS</sub>
+* 🚀 **[Celestial-Wars](https://github.com/NumeralTiger/Celestial-Wars)** &nbsp;<sub>★ 1</sub>
+  <br/>*Arcade themed asteroid shooter game*
+  <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white)
+* 🪐 **[3D Solar System](https://github.com/NumeralTiger/JAVAFX)** &nbsp;<sub>★ 1</sub>
+  <br/>*Interactive 3D space simulator*
+  <br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-000000?style=flat-square&logo=java&logoColor=white)
+* 🧩 **[Elf-Maze-Game](https://github.com/NumeralTiger/Elf-Maze-Game)** &nbsp;<sub>★ 1</sub>
+  <br/>*DFS maze generator — AWS Challenge*
+  <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧰 Tools & Utilities
-[![Chrome Extension](https://img.shields.io/badge/-📰%20Article%20Summarizer-161B22?style=for-the-badge)](https://github.com/NumeralTiger/my_chrome_extension)
-<br/>Chrome ext — summarizes lengthy articles
-<br/><sub>⭐ 1 · JavaScript · Chrome API</sub>
-
-[![Immigration Insights](https://img.shields.io/badge/-📈%20Immigration%20Insights-161B22?style=for-the-badge)](https://github.com/NumeralTiger/immigration-insights)
-<br/>Census data visualization dashboard
-<br/><sub>⭐ 1 · HTML · Data Visualization</sub>
+* 📰 **[my_chrome_extension](https://github.com/NumeralTiger/my_chrome_extension)** &nbsp;<sub>★ 1</sub>
+  <br/>*Summarizes articles into bite-sized sentences*
+  <br/>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+* 📈 **[immigration-insights](https://github.com/NumeralTiger/immigration-insights)** &nbsp;<sub>★ 1</sub>
+  <br/>*Census data visualization dashboard*
+  <br/>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☕ Java Projects
-[![Blackjack](https://img.shields.io/badge/-🃏%20Blackjack-161B22?style=for-the-badge)](https://github.com/NumeralTiger/blackjack_in_java)
-<br/>Terminal-based Blackjack game
-<br/><sub>⭐ 1 · Java</sub>
-
-[![Drawing App](https://img.shields.io/badge/-🎨%20Drawing%20App-161B22?style=for-the-badge)](https://github.com/NumeralTiger/JavaDrawingApp)
-<br/>Java drawing application
-<br/><sub>Java · Swing</sub>
-
-[![Image Manipulation](https://img.shields.io/badge/-🖼️%20Image%20Manipulation-161B22?style=for-the-badge)](https://github.com/NumeralTiger/Image-manipulation)
-<br/>Cool image operations with PIL
-<br/><sub>⭐ 1 · Python · PIL</sub>
+* 🃏 **[blackjack_in_java](https://github.com/NumeralTiger/blackjack_in_java)** &nbsp;<sub>★ 1</sub>
+  <br/>*Terminal-based Blackjack game*
+  <br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+* 🎨 **[JavaDrawingApp](https://github.com/NumeralTiger/JavaDrawingApp)**
+  <br/>*Java drawing application using Swing*
+  <br/>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+* 🖼️ **[Image-manipulation](https://github.com/NumeralTiger/Image-manipulation)** &nbsp;<sub>★ 1</sub>
+  <br/>*Cool image operations with PIL*
+  <br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -180,15 +170,15 @@ fun_fact: "I can solve a Rubik's cube 🧊"
 
 <div align="center">
 <a href="https://github.com/NumeralTiger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NumeralTiger&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumeralTiger&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=NumeralTiger&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NumeralTiger&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NumeralTiger&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NumeralTiger&theme=dark&hide_border=true" />
 </div>
 
 <br/>
